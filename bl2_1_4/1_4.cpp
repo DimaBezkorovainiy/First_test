@@ -1,4 +1,4 @@
-/* 
+﻿/* 
  * File:   1_4.cpp
  * Author: Home
  *
@@ -15,7 +15,7 @@ int gcd (int a,int b)
     if (!a) return b;
     else return gcd(b%a,a);
 }
-/*
+/*123
 
  */
 int main() 
